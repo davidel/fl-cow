@@ -1,2 +1,4 @@
 # fl-cow
-Filesystem Copy On Write
+
+For more information see [fl-cow](http://www.xmailserver.org/flcow.html).
+
